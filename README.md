@@ -9,4 +9,4 @@ used libraries :
       Image
       sklearn
 
-The database file for the model is also uploaded as mail.csv
+The database file for the model is also uploaded as mail_data.csv
